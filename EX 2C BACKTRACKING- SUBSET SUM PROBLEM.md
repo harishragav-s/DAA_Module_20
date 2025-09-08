@@ -19,9 +19,9 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 ## Program:
 #### Program to implement Subset sum problem.
 
-#### Developed by: PRAVEEN S
+#### Developed by: HARISH RAGAV S
 
-#### Register Number:  212222240078
+#### Register Number:  212222110013
 
 ```PY
 def subsetSum(arr, n, i,sum, count):
